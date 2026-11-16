@@ -20,11 +20,14 @@ Yeh repository hamari centralized enterprise memory layer hai jo AGY Gemini, Inv
   * Secondary / Bridge: `amer231105@gmail.com`
 * Synchronized global git commit email automatically ensures correct contributor attribution.
 
-### 3. Telegram & External SM Bridge Invariant
-* Jab Telegram bot ya headless daemon (`tg-bridge`, `remote-control serve`) kisi subagent ya user request ko forward kare:
-  1. Header check: `### 🎯 Active Target & Context` enforced.
-  2. Language invariant: Output hamesha fluent **Roman Urdu** mein render hoga.
-  3. Context eviction: Heavy threads mein auto `/compact` recommendations trigger hongi.
+### 3. Telegram & External SM Bridge & Language Protocol Invariant
+* **Bilingual Execution & Delivery Protocol (Mandatory & Permanent)**:
+  1. **Result-Oriented Outputs (GitHub, Code, Commits, PRs, Issue bodies, CI/CD, Artifacts, and Technical Deliverables)**:
+     * MUST be written in professional, concise **English only**.
+  2. **Conversational Agent Chatting (AGY Chat UI / Telegram Responses)**:
+     * MUST be delivered in fluent, precise **Roman Urdu**.
+  3. Header check: `### 🎯 Active Target & Context` enforced at the top of AGY responses.
+  4. Context eviction: Heavy threads mein auto `/compact` recommendations trigger hongi.
 
 ### 4. Crash-Proof Hygiene & Self-Healing
 * Headless Chromium / browser-use lingerings ko isolate kiya jata hai.
