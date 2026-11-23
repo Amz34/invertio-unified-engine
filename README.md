@@ -54,3 +54,7 @@ systemctl --user is-system-running
 
 ## 📜 Repository Management
 Maintained by the **Invertio Engineering Team** under unified infrastructure automation.
+
+---
+
+Part of [my always-on agent stack](https://github.com/Amz34) · [Awesome Agent Infrastructure](https://github.com/Amz34/awesome-agent-infrastructure) (135 live-checked building blocks).
