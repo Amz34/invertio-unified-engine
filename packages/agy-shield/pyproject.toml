@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agy-shield"
+version = "1.0.0"
+description = "Autonomous O(N²) Transcript Compaction, Semantic Memory Defense & Quota Balancer for AI Agent Frameworks"
+readme = "README.md"
+authors = [{ name = "Invertio Engineering", email = "engineering@invertio.ae" }]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = []
+
+[project.scripts]
+agy-shield = "agy_shield.cli:main"
