@@ -27,7 +27,7 @@ fi
 
 echo "=== [5/5] RTK Global Stats ==="
 if command -v rtk >/dev/null; then
-    rtk gain | head -n 8
+    rtk gain | head -n 8 || true
 fi
 
 echo "=== Invertio Unified Engine is 100% Armed & Crash-Proof ==="
